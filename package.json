@@ -1,0 +1,21 @@
+{
+  "name": "ford-pro-sl-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ford.com:AV-TaaS/ford-pro-sl-web-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^13.2.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
